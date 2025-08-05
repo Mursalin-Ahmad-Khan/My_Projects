@@ -1,0 +1,1 @@
+"A collection of projects showcasing my practice in analyzing data, creating meaningful visualizations, and developing machine learning models. These projects represent my continuous learning in data science."
